@@ -5,7 +5,10 @@
 
 | Title                        | Grade   |
 | ---------------------------- | ------- |
+| [Quiz 2024 Spring](Quiz/)    | N/A     |
 | [Assignment 1](Assignment1/) | 100/100 |
 | [Assignment 2](Assignment2/) | 93/100  |
+| [Assignment 3](Assignment3/) | 100/100 |
+| [Assignment 4](Assignment4/) | 100/100 |
 | [Assignment 5](Assignment5/) | 100/100 |
 

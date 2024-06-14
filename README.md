@@ -12,4 +12,5 @@
 | [Assignment 4](Assignment4/) | 100/100 |
 | [Assignment 5](Assignment5/) | 100/100 |
 | [Assignment 6](Assignment6/) | 100/100 |
+| [Assignment 7](Assignment7/) | 100/100 |
 
